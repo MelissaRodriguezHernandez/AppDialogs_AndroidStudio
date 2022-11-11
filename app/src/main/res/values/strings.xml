@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppDialogs</string>
+    <string name="sin_abrir">Aun no se ha abierto el dialogo</string>
+    <string name="cancel">Has elegido cancelar</string>
+    <string name="boton">Abrir dialogo</string>
+    <string name="continuar">Has elegido continuar</string>
+</resources>
